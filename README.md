@@ -1,5 +1,5 @@
-<a href="https://github.com/lucadumitru">
-  <img src="https://media.licdn.com/dms/image/D4D16AQFnUEpm48MiTg/profile-displaybackgroundimage-shrink_350_1400/0/1699211003879?e=1727913600&v=beta&t=mtUoM2dXLMu_RQe18jPaxkSq-A8KINV-CSnYvhBMu6Y" alt="Lucadevelop img"
+<a href="https://lucadevelop.com">
+  <img src="https://lucadevelop.com/header-image.jpg" alt="Lucadevelop img"
       lucadevelop" align="center"/>
 </a>
 
