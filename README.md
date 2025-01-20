@@ -15,7 +15,7 @@ Frontend Developer from Moldova 🇲🇩, now living in Seville, Spain 🇪🇸
 -  :office: &nbsp;I am currently actively looking for job opportunities.
 -  🔥 I develop for all platforms using Typescript
 -  👨‍💻 All of my projects are available at: **[lucadevelop.com](https://lucadevelop.com)**
--  📫 How to reach me luca.dumitru25@icloud.com
+-  📫 How to reach me <a href="mailto:contact@lucadevelop.com">contact@lucadevelop.com</a>
 
 <br>
 
