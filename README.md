@@ -165,7 +165,7 @@ Frontend Developer from Moldova 🇲🇩, now living in Seville, Spain 🇪🇸
     </td>
    <td align="center" width="110" height="90">
       <a href="#lucadumitru-stack" >
-        <img src="https://zustand-demo.pmnd.rs/logo192.png" width="36" height="36" alt="Zustand" />
+        <img src="https://raw.githubusercontent.com/pmndrs/zustand/refs/heads/main/examples/demo/public/logo192.png" width="36" height="36" alt="Zustand" />
       </a>
       <br>Zustand
    </td>
