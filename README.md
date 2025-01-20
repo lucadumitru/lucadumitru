@@ -171,7 +171,7 @@ Frontend Developer from Moldova 🇲🇩, now living in Seville, Spain 🇪🇸
    </td>
    <td align="center" width="110" height="90">
       <a href="#lucadumitru-stack" >
-        <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" width="36" height="36" alt="Zustand" />
+        <img src="https://raw.githubusercontent.com/TanStack/query/397fcfc1411ad64659e4c7fe6ae06b8a8a0f00eb/media/emblem-light.svg" width="36" height="36" alt="React Query" />
       </a>
       <br>React Query
    </td>
