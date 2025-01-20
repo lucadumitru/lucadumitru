@@ -210,6 +210,31 @@ Frontend Developer from Moldova 🇲🇩, now living in Seville, Spain 🇪🇸
   </tr> 
 </table>
 
+> UI
+
+<table width='100%'>
+  <tr>
+    <td align="center" width="110" height="90">
+      <a href="#lucadumitru-stack" >
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" width="36" height="36" alt="ShadCn UI" />
+      </a>
+      <br>ShadCn UI
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#lucadumitru-stack" >
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_ui.png" width="36" height="36" alt="Next UI" />
+      </a>
+      <br>Next UI
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#lucadumitru-stack" >
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/styled-components.png" width="36" height="36" alt="Styled Components" />
+      </a>
+      <br>Styled Components
+    </td>
+  </tr> 
+</table>
+
 > Backend
 
 <table width='100%'>
@@ -219,6 +244,13 @@ Frontend Developer from Moldova 🇲🇩, now living in Seville, Spain 🇪🇸
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL
+    </td>
+    <td align="center" width="110" height="90">
+      <a href="#lucadumitru-stack" >
+        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/strapi.png" width="36" height="36" alt="Strapi" />
+      </a>
+      <br>Strapi
+    </td>
   </tr> 
 </table>
 
